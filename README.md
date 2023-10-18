@@ -10,6 +10,7 @@
 <code><img alt="css" height="30" src="https://github.com/alexeira/alexeira/assets/102609365/92695138-2633-404f-8117-11eec2b99a00" /></code>
 <code><img alt="javascript" height="30" src="https://github.com/alexeira/alexeira/assets/102609365/3bac3269-058a-4911-b85e-3c9717cc1adf"/></code>
 <code><img alt="typescript" height="30" src="https://github.com/alexeira/alexeira/assets/102609365/09550584-ca05-4323-b064-2ec4cb1c4651" /></code>
+<code><img alt="next-js" height="30" src="https://github.com/alexeira/alexeira/assets/102609365/e8ad7c22-2fa8-4e28-9f23-186e02196df8" /></code>
 
 #### Frameworks and Libraries
 
